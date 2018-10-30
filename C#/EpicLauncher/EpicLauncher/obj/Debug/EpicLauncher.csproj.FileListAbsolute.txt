@@ -1,0 +1,10 @@
+D:\MyProject\C#\EpicLauncher\EpicLauncher\bin\Debug\EpicLauncher.exe.config
+D:\MyProject\C#\EpicLauncher\EpicLauncher\bin\Debug\EpicLauncher.exe
+D:\MyProject\C#\EpicLauncher\EpicLauncher\bin\Debug\EpicLauncher.pdb
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.csprojAssemblyReference.cache
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.Properties.Resources.resources
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.csproj.GenerateResource.cache
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.exe
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.pdb
+D:\MyProject\C#\EpicLauncher\EpicLauncher\obj\Debug\EpicLauncher.Form1.resources
